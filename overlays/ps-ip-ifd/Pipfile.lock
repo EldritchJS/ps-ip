@@ -85,7 +85,13 @@
         },
         "jpegio": {
             "hashes": [
-                "sha256:5188a1e27af2c7dc2dc41cf183879cd2c78fc529d284042f0e096ece62c10d61"
+                "sha256:428354a48e19a1880efa5ce50575bdefba46b2626d2f6d001717e21f30e5d18a",
+                "sha256:5188a1e27af2c7dc2dc41cf183879cd2c78fc529d284042f0e096ece62c10d61",
+                "sha256:6708a3c7bb629422c1b9000ea1e709a323966c07d78348f3f2dbe2850de82de2",
+                "sha256:8cded282bc6d4af5ce58785f3f685b9816af0efa63874dd92eec22f728d068d2",
+                "sha256:c3abf46877ef5a1c282da2188924f14aeea7737f5a40a5117d035773eaf983f6",
+                "sha256:d49efb9768e32ff672ae1c2fc13ef407a69db5c4e04e40cc6e7f56c84bca20ab",
+                "sha256:d518ff1884cf15ac6f71d14c8c4a86fc6c1c6f8e552b35cf7b6af992caad5a64"
             ],
             "version": "==0.2.7"
         },
@@ -319,7 +325,8 @@
         },
         "pyifd": {
             "hashes": [
-                "sha256:95315ed01d29763c20bb2637e96845c560c0761619550fcef9999024c6877a44"
+                "sha256:95315ed01d29763c20bb2637e96845c560c0761619550fcef9999024c6877a44",
+                "sha256:fa94939f946b5c85c62e8b3b2140c542e13be8c8918a91742e07fcd51ada9311"
             ],
             "index": "pypi",
             "version": "==0.0.2"
